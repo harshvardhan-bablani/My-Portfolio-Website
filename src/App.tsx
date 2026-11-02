@@ -5,7 +5,7 @@ const LINKS = {
   github: "https://github.com/harshvardhan-bablani",
   linkedin: "https://www.linkedin.com/in/harshvardhan-bablani-865688303/",
   email: "harshvardhanbablani@gmail.com",
-  resume: "",
+  resume: "/resume.pdf",
 }
 
 const navItems = [
